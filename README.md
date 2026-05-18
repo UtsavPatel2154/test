@@ -1,1 +1,2 @@
-Just for fun and learning purpose 
+🚀 Learning in progress...
+This file is created only for practice and learning purposes to improve my understanding of Git & GitHub 💻📚✨
